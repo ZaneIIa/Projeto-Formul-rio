@@ -16,3 +16,6 @@ Antes de finalizar, utilize o botão "Enviar" para confirmar suas respostas, cer
 
 
 ![image](https://github.com/user-attachments/assets/94097f37-bf3f-42c7-967a-46f83eace3c7)
+![image](https://github.com/user-attachments/assets/8198d2f3-483f-4c2a-8408-db248f653408)
+
+O erro foi que duas variaveis possuiam espaço entre elas, retirando, o problema foi resolvido.
