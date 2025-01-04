@@ -13,3 +13,6 @@ Na seção de expectativas para o próximo ano letivo, descreva seus objetivos e
 Ao informar sua data de nascimento, utilize o calendário disponível no formulário e assegure-se de que a data está correta. Para indicar sua hora preferencial de estudo, escolha o período do dia em que você se sente mais confortável e produtivo, o que pode ajudar a planejar sua rotina.
 
 Antes de finalizar, utilize o botão "Enviar" para confirmar suas respostas, certificando-se de que todos os campos obrigatórios foram preenchidos. Se desejar apagar as informações inseridas e começar novamente, clique no botão "Limpar".
+
+
+![image](https://github.com/user-attachments/assets/94097f37-bf3f-42c7-967a-46f83eace3c7)
